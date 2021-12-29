@@ -1,0 +1,9 @@
+[submodule "ADMS"]
+	path = ADMS
+	url = https://github.com/Qucs/ADMS.git
+[submodule "AutoCkt"]
+	path = AutoCkt
+	url = https://github.com/ksettaluri6/AutoCkt.git
+[submodule "ngspice"]
+	path = ngspice
+	url = git://git.code.sf.net/p/ngspice/ngspice
